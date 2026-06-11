@@ -24,6 +24,6 @@ spec:
     spec:
       containers: 
       - name: facebook-container
-        image: devopshubg333/batch17d:tomcat
+        image: devopshubg333/batch17d:xyz
         ports:
-        - containerPort: 8081
+        - containerPort: 8080
