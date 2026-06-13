@@ -1,0 +1,6 @@
+projectKey=com.example:facebookapp
+serverUrl=http://3.95.31.10:9000
+serverVersion=26.6.0.123539
+dashboardUrl=http://3.95.31.10:9000/dashboard?id=com.example%3Afacebookapp
+ceTaskId=7697564b-8d1f-464d-b2e4-1beabcb97840
+ceTaskUrl=http://3.95.31.10:9000/api/ce/task?id=7697564b-8d1f-464d-b2e4-1beabcb97840
