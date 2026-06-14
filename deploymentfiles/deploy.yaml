@@ -24,6 +24,6 @@ spec:
     spec:
       containers: 
       - name: facebook-container
-        image: chalamalasett/dockerimages:19
+        image: chalamalasett/dockerimages:20
         ports:
         - containerPort: 8080
